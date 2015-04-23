@@ -1,3 +1,3 @@
-# MIT-App-inventor
+#MIT App inventor
 
-To be done: Add tracking buses as a functionality to the app.
+This repo stores the source code for Easy Bus app. More details to come soon.
